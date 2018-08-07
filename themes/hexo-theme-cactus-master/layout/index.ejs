@@ -1,31 +1,15 @@
 <section id="about">
   <% if (config.description) { %>
     <%- markdown(config.description) %>
+	<div>
+		<nav>
+			<p><a href="<%- url_for(theme.nav.about) %>">Read More</a></p>
+		</nav>
+	</div>
   <% } %>
-  <img src="/images/3.jpg" style="width: 100%"/>
-  <% if (theme.social_links) { %>
-    <p>
-      <%= __('index.find_me_on') %>
-      <% var nb_links = Object.keys(theme.social_links).length %>
-      <% var i = 0 %>
-      <% for(var link in theme.social_links) { %>
-        <% if (link == 'mail') { %>
-          <a class="icon" target="_blank" href="<%- url_for(theme.social_links[link]) %>">
-            <i class="fas fa-envelope"></i><!--
-      ---></a><!--
-      ---><% } else { %>
-          <a class="icon" target="_blank" href="<%- url_for(theme.social_links[link]) %>">
-            <i class="fab fa-<%= link %>"></i><!--
-      ---></a><!--
-    ---><% } %><!--
-    ---><%= ( nb_links > 0 && i < nb_links-1 ?
-            ( i == nb_links-2 ? ' '+__('index.enum_and')+' '
-            : __('index.enum_comma')+' ' )
-            : '.' ) %>
-        <% i+=1 %>
-      <% } %>
-    </p>
-  <% } %>
+  <div>
+	<img src="/images/3.jpg" style="width: 100%"/>
+  </div>
 </section>
 
 <section id="writing">

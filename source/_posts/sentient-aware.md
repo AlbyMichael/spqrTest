@@ -42,7 +42,7 @@ Visual search technology comes in many varieties but all approaches center on th
 
 ### When Is Visual Search Useful?
 
-Visual search is ideal for products we buy largely based on their appearance-think clothes and apparel and interior decor, for instance. Products that are additional utilitarian don't work practically as well. After all, you're never buy a nail or a screw based mostly on how it looked; you're buy it predicated on its size and if it’ll get the job done. Visual search gives users a far more intuitive approach to find products, similar to browsing a retail outlet that evolves with their taste then interacting with a spreadsheet.
+Visual search is ideal for products we buy largely based on their appearance-think clothes and apparel and interior decor, for instance. Products that are additional utilitarian don't work practically as well. After all, you're never buy a nail or a screw based mostly on how it looked; you're buy it predicated on its size and if itâ€™ll get the job done. Visual search gives users a far more intuitive approach to find products, similar to browsing a retail outlet that evolves with their taste then interacting with a spreadsheet.
 
 ### How Is Personalization Found in E-commerce?
 

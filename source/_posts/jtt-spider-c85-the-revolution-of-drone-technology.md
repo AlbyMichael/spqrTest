@@ -1,6 +1,6 @@
 ---
-title: JTT Spider C85 **The Revolution of Drone Technology**
-date: 2018-1-2 17:10:00
+title: JTT Spider C85 The Revolution of Drone Technology
+date: 2019-1-2 17:10:00
 category: drone tech
 ---
 
